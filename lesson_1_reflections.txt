@@ -1,0 +1,4 @@
+what have i done?
+it has got to be easy 
+what is a version control
+use git checkout to revert to the old project
